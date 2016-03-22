@@ -24,6 +24,9 @@
 - [Написание сложных интерфейсов с Backbone.js](https://habrahabr.ru/post/118782/)
 - [Multi-Column Sort in Backbone Collections](http://www.benknowscode.com/2013/12/multi-column-sort-in-backbone-collections.html)
 - [Backbone.js & Underscore.js Natural Sorting Algorithm](https://gist.github.com/kjantzer/7027717)
+- [Backbone.js: Bind Callback to Successful Model Fetch](http://www.chilipepperdesign.com/2013/01/15/backbone-js-bind-callback-to-successful-model-fetch/)
+
+
 
 ### Marionette.js
 - [Marionette.js official site (EN)](http://marionettejs.com/)
@@ -33,6 +36,7 @@
 - [Marionette.js Video (RU)](https://www.youtube.com/watch?v=H0xoue5yQCM&list=PL7shpKPrSMXBb9XTKmZaE6mwzwwayMpEa)
 - [Краткий обзор Marionette.js](http://loftblog.ru/material/kratkij-obzor-marionette-js/)
 - [Simple Marionette.js Model, Collection and CollectionView Example](http://www.eccesignum.org/blog/simple-marionettejs-model-collection-and-collectionview-example)
+- [Пишем ajax комментарии с Backbone и Marionette](http://www.itlessons.info/javascript/comments-with-backbone-and-marionette/)
 
 ### Require.js
 - [Require.js official site (EN)](http://requirejs.org/)
@@ -53,3 +57,12 @@
 - [spin.js](http://fgnass.github.io/spin.js/)
 
 
+# Preprocessors
+### Stylus
+- [Stylus LoftBlog](https://www.youtube.com/watch?v=dJefN7CsBHw&list=PLY4rE9dstrJweysGgk7MvhUglXpdcfVp1)
+ 
+
+
+
+
+#
