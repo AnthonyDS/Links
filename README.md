@@ -3,13 +3,13 @@
 - [npmjs official site (EN)](https://www.npmjs.com/)
 
 
-## Library
+# Library
 
-# Underscore.js
+### Underscore.js
 - [Underscore.js official site (EN)](http://underscorejs.org/)
 - [Underscore.js (RU)](http://underscorejs.ru/)
 
-# Backbone.js
+### Backbone.js
 - [Backbone official site (EN)](http://backbonejs.org/)
 - [Backbone (RU)](http://backbonejs.ru/)
 - [Backbone Video (EN)](https://www.youtube.com/watch?v=2-0u9ircxwk&list=PLMgCulhAIAIWKsu1qPauyaEXiOX6UCIYo)
@@ -25,7 +25,7 @@
 - [Multi-Column Sort in Backbone Collections](http://www.benknowscode.com/2013/12/multi-column-sort-in-backbone-collections.html)
 - [Backbone.js & Underscore.js Natural Sorting Algorithm](https://gist.github.com/kjantzer/7027717)
 
-# Marionette.js
+### Marionette.js
 - [Marionette.js official site (EN)](http://marionettejs.com/)
 - [Marionette.js official blog (EN)](http://blog.marionettejs.com/)
 - [Marionette.js (RU)](http://marionettejs.ru/)
@@ -34,22 +34,22 @@
 - [Краткий обзор Marionette.js](http://loftblog.ru/material/kratkij-obzor-marionette-js/)
 - [Simple Marionette.js Model, Collection and CollectionView Example](http://www.eccesignum.org/blog/simple-marionettejs-model-collection-and-collectionview-example)
 
-# Require.js
+### Require.js
 - [Require.js official site (EN)](http://requirejs.org/)
 - [Require.js GitHub](https://github.com/requirejs/requirejs)
 - [Модульный подход к разработке web-приложений с использованием JavaScript: AMD и RequireJS](https://habrahabr.ru/post/152833/)
 
-# Bootstrap
+### Bootstrap
 - [Bootstrap](http://getbootstrap.com/)
 
 
-## Plugins
+# Plugins
 
 - [Backbone: backbone-sorted-collection](https://www.npmjs.com/package/backbone-sorted-collection)
 - [2](http://cnpmjs.org/package/backbone-sortable-collection)
 - [3](http://npm.taobao.org/package/backbone-sorted-collection)
 - 
-# Preloader
+### Preloader
 - [spin.js](http://fgnass.github.io/spin.js/)
 
 
