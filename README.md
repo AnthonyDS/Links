@@ -3,6 +3,7 @@
 - [npmjs official site (EN)](https://www.npmjs.com/)
 
 
+
 # Library
 
 ### Underscore.js
@@ -42,9 +43,22 @@
 - [Require.js official site (EN)](http://requirejs.org/)
 - [Require.js GitHub](https://github.com/requirejs/requirejs)
 - [Модульный подход к разработке web-приложений с использованием JavaScript: AMD и RequireJS](https://habrahabr.ru/post/152833/)
+- [Загрузчик модулей RequireJS](http://stepansuvorov.com/blog/2012/10/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9-requirejs/)
 
 ### Bootstrap
 - [Bootstrap](http://getbootstrap.com/)
+
+### knockoutjs
+- [knockoutjs](http://knockoutjs.com/)
+- [knockoutjs MVC](http://knockoutmvc.com/)
+
+### AngularJS
+- [AngularJS](https://angularjs.org/)
+
+### jQuery
+- [jQuery](http://jquery.com/)
+- [jQuery UI](http://jqueryui.com/)
+
 
 
 # Plugins
@@ -52,15 +66,21 @@
 - [Backbone: backbone-sorted-collection](https://www.npmjs.com/package/backbone-sorted-collection)
 - [Backbone, 2](http://cnpmjs.org/package/backbone-sortable-collection)
 - [Backbone, 3](http://npm.taobao.org/package/backbone-sorted-collection)
-
+- [GitHub: backbone.layoutmanager](https://github.com/tbranyen/backbone.layoutmanager/wiki/0.6.6-documentation)
 ### Preloader
 - [spin.js](http://fgnass.github.io/spin.js/)
 
 
+
 # Preprocessors
 ### Stylus
+- [Stylus](http://stylus-lang.com/)
 - [Stylus LoftBlog](https://www.youtube.com/watch?v=dJefN7CsBHw&list=PLY4rE9dstrJweysGgk7MvhUglXpdcfVp1)
- 
+- [Stylus - знакомство с препроцессором](http://zencoder.ru/css/stylus-introduction/)
+- [Habh: Подарок всем front-end разработчикам. grunt(Jade+Stylus+Watch)](https://habrahabr.ru/post/207970/)
+- [grunt watch and stylus](http://stackoverflow.com/questions/27443188/grunt-watch-and-stylus)
+
+
 
 
 
