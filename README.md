@@ -86,12 +86,13 @@
 # Модульное программирование
 - [browserify](http://browserify.org/)
 - [webpack](http://webpack.github.io/)
+
 ### Require.js
 - [Require.js official site (EN)](http://requirejs.org/)
 - [Require.js GitHub](https://github.com/requirejs/requirejs)
 - [Модульный подход к разработке web-приложений с использованием JavaScript: AMD и RequireJS](https://habrahabr.ru/post/152833/)
 - [Загрузчик модулей RequireJS](http://stepansuvorov.com/blog/2012/10/%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D1%87%D0%B8%D0%BA-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9-requirejs/)
-- 
+
 
 
 
