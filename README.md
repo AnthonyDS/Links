@@ -46,9 +46,9 @@
 # Plugins
 
 - [Backbone: backbone-sorted-collection](https://www.npmjs.com/package/backbone-sorted-collection)
-- [2](http://cnpmjs.org/package/backbone-sortable-collection)
-- [3](http://npm.taobao.org/package/backbone-sorted-collection)
-- 
+- [Backbone, 2](http://cnpmjs.org/package/backbone-sortable-collection)
+- [Backbone, 3](http://npm.taobao.org/package/backbone-sorted-collection)
+
 ### Preloader
 - [spin.js](http://fgnass.github.io/spin.js/)
 
