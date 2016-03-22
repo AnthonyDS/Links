@@ -24,8 +24,8 @@
 - [Написание сложных интерфейсов с Backbone.js](https://habrahabr.ru/post/118782/)
 - [Multi-Column Sort in Backbone Collections](http://www.benknowscode.com/2013/12/multi-column-sort-in-backbone-collections.html)
 - [Backbone.js & Underscore.js Natural Sorting Algorithm](https://gist.github.com/kjantzer/7027717)
-- [Backbone.js: Bind Callback to Successful Model Fetch](http://www.chilipepperdesign.com/2013/01/15/backbone-js-bind-callback-to-successful-model-fetch/)
-
+- [Backbone.js Bind Callback to Successful Model Fetch](http://www.chilipepperdesign.com/2013/01/15/backbone-js-bind-callback-to-successful-model-fetch/)
+- [Backbone.js LoftBlog](http://loftblog.ru/material/razrabotka-veb-prilozheniya-na-backbone-js-chast-pervaya-znakomstvo-s-instrumentami/)
 
 
 ### Marionette.js
